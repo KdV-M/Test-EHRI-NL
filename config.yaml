@@ -45,7 +45,7 @@ taxonomies:
 menu:
   main:
     - identifier: news
-      pageRef: news
+      pageRef: /Test-EHRI-NL/news/
       weight: 10
     - identifier: about
       pageRef: about
